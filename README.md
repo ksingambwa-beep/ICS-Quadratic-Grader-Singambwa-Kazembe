@@ -1,2 +1,2 @@
 # ICS-Quadratic-Grader--Singambwa-Kazembe-
-2nd Year Student at Mulungushi University
+Improved Grading System and Quadratic Equation Solver
