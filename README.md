@@ -1,4 +1,4 @@
-# ICS-Quadratic-Grader--Singambwa-Kazembe-
+# ICS-Quadratic-Grader--Sing'ambwa-Kazembe-
 Improved Grading System and Quadratic Equation Solver
             ICS-Quadratic-Grader
 . This is a single-page web application created for the ICT251 Web Technologies assignment.
